@@ -2,6 +2,8 @@
 
 A web app that shows an LLM **deciding in real time** which tool to reach for: web search, a calculator, or its own knowledge. Built with LangChain, Flask, and DuckDuckGo (no API key required for search).
 
+**Live demo:** https://tool-using-agent.onrender.com
+
 ---
 
 ## Agent vs Chain — what's the difference?
